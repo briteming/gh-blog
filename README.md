@@ -8,18 +8,14 @@ At the end of the day I can host my blog for free and conviniently using git and
 # Use
 If you'd like to use it you can simply:
 
-1. Clone it
+1. Clone it and cd into gh-blog
+2. npm install && npm install -g bower
 
-2. `bower intall`
+3. bower intall
 
-3. Make necessary changes to `config.json` or change images
+4. Make necessary changes to `config.json` or change images
 
-4. Copy contents and push it to repo of your choice
+5. Copy contents and push it to repo of your choice
 
 The style for the blog belongs to https://github.com/Skepton/Pixelpusher
 
-# Dev
-
-1. `npm install`
-
-2. `gulp`
